@@ -10,7 +10,8 @@ a {
   text-decoration: none;
 }
 
-.header-nav {#4d5ae5;
+.header-nav:hover {
+  color: #404bbf;
 }
 .header-link {
   font-family: Raleway, sans-serif;
@@ -20,20 +21,22 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  
 }
 .logo {
   color: #2e2f42;
 }
-.header-item:hover {
+.logo:hover {
   color: #404bbf;
 }
-.header-list {
+.logo:active {
+  text-decoration: underline;
+}
+logo .header-list {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.017;
+  letter-spacing: 0.02em;
 }
 .header-item {
 }
