@@ -45,10 +45,10 @@ a {
   letter-spacing: 0.02em;
 }
 
-.Contacts-link:hover {
+.post:hover {
   color: #404bbf;
 }
-.Contacts-link:focus {
+.post:focus {
   color: #404bbf;
 }
 
