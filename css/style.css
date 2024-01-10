@@ -113,13 +113,6 @@ button {
   text-transform: capitalize;
   text-align: center;
 }
-.portfolio-desc1 {
-  line-height: 1.5;
-}
-.portfolio-caption1 {
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
 .portfolio-caption,
 .team-caption {
   color: #2e2f42;
@@ -132,7 +125,7 @@ button {
 .potrfolio-desc {
   color: #434455;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer-link {
