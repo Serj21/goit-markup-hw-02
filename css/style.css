@@ -114,8 +114,8 @@ button {
 .team {
   background-color: #f4f4fd;
 }
-.team-caption,
-.team-desc {
+.team-list,
+.team-item {
   background-color: #ffffff;
 }
 .team-title,
