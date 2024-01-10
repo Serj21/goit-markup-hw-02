@@ -3,17 +3,13 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.header {
-}
 a {
   color: currentColor;
   text-decoration: none;
 }
-
 .header-nav:hover {
   color: #404bbf;
 }
-
 .header-link {
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -42,8 +38,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-item {
-}
+
 .Contacts-link:hover {
   color: #404bbf;
 }
@@ -83,14 +78,8 @@ button {
   color: #ffffff;
   background-color: #404bbf;
 }
-.benenefits {
-}
 .benenefits-title {
   text-align: center;
-}
-.benenefits-list {
-}
-.benenefits-item {
 }
 .benenefits-caption {
   color: #2e2f42;
@@ -111,7 +100,7 @@ button {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 .team-title,
