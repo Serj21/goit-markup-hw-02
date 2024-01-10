@@ -1,5 +1,5 @@
 body {
-  font-family: Roboto, Raleway, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -10,10 +10,7 @@ a {
   text-decoration: none;
 }
 
-.logo {
-  color: #4d5ae5;
-}
-.header-nav {
+.header-nav {#4d5ae5;
 }
 .header-link {
   font-family: Raleway, sans-serif;
@@ -22,6 +19,10 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+  
+}
+.logo {
   color: #2e2f42;
 }
 .header-item:hover {
