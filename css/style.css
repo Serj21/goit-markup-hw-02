@@ -1,5 +1,7 @@
 body {
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, Raleway, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 .header {
 }
@@ -17,9 +19,10 @@ a {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #2e2f42;
 }
 .header-item:hover {
   color: #404bbf;
@@ -47,7 +50,6 @@ a {
 }
 .hero-title {
   color: #fff;
-  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -57,14 +59,12 @@ button {
   font-family: inherit;
   color: #ffffff;
   cursor: pointer;
-}
-.hero-button {
-  border-radius: 4px;
+  font-weight: 500;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .hero-button:hover {
-  color: #404bbf;
+  color: #ffffff;
+  background-color: #404bbf;
 }
 .benenefits {
 }
@@ -90,7 +90,6 @@ button {
 .team-title,
 .portfolio-title {
   color: #2e2f42;
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -103,7 +102,7 @@ button {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
 .team-desc,
 .potrfolio-desc {
