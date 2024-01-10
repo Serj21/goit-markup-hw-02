@@ -114,9 +114,9 @@ button {
 .team {
   background-color: #f4f4fd;
 }
-.team-item {
+/* .team-item {
   background-color: #ffffff;
-}
+} */
 .team-title,
 .portfolio-title {
   color: #2e2f42;
@@ -126,6 +126,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  background-color: #ffffff;
 }
 
 .team-caption,
