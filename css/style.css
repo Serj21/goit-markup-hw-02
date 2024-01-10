@@ -108,6 +108,12 @@ button {
 .portfolio-title {
   text-align: center;
 }
+.team {
+  background-color: #f4f4fd;
+}
+.team-list {
+  background-color: #ffffff;
+}
 .team-title,
 .portfolio-title {
   color: #2e2f42;
