@@ -32,7 +32,10 @@ a {
 .logo:active {
   text-decoration: underline;
 }
-logo .header-list {
+.header-list:hover {
+  color: #404bbf;
+}
+.header-list {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
