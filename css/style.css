@@ -28,9 +28,6 @@ a {
 .logo:active {
   text-decoration: underline;
 }
-.logo:focus {
-  color: #404bbf;
-}
 .header-list:hover {
   color: #404bbf;
 }
