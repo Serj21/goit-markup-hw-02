@@ -37,7 +37,7 @@ a {
 .header-item:focus {
   color: #404bbf;
 }
-.header-list {
+.header-item {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
