@@ -108,7 +108,7 @@ button {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.11;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -125,7 +125,7 @@ button {
 .potrfolio-desc {
   color: #434455;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .footer-link {
