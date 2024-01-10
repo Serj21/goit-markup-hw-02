@@ -19,6 +19,13 @@ a {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+.header-item {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 .logo {
   color: #2e2f42;
 }
@@ -37,13 +44,7 @@ a {
 .header-item:focus {
   color: #404bbf;
 }
-.header-item {
-  color: #2e2f42;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
+
 .header-item {
   color: #2e2f42;
   font-size: 16px;
