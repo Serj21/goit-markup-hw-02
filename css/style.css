@@ -103,8 +103,7 @@ button {
 .team-list {
   background-color: #ffffff;
 }
-.team-title,
-.portfolio-title {
+.team-title {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
@@ -114,7 +113,6 @@ button {
   text-align: center;
 }
 
-.portfolio-caption,
 .team-caption {
   color: #2e2f42;
   font-size: 20px;
@@ -122,11 +120,32 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.team-desc,
-.potrfolio-desc {
+.team-desc {
   color: #434455;
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.portfolio-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.portfolio-caption {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.portfolio-desc {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer-link {
