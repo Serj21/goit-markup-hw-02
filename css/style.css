@@ -47,14 +47,20 @@ a {
 .Contacts-link:hover {
   color: #404bbf;
 }
+.Contacts-link:focus {
+  color: #404bbf;
+}
+
 .Contacts {
   color: #434455;
   font-size: 16px;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 .hero {
   background-color: #2e2f42;
+  text-align: center;
 }
 .hero-title {
   color: #fff;
@@ -69,14 +75,18 @@ button {
   cursor: pointer;
   font-weight: 500;
   background: #4d5ae5;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
-.hero-button:hover {
+.hero-button:hover,
+.hero-button:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
 .benenefits {
 }
 .benenefits-title {
+  text-align: center;
 }
 .benenefits-list {
 }
@@ -95,6 +105,9 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.portfolio-title {
+  text-align: center;
+}
 .team-title,
 .portfolio-title {
   color: #2e2f42;
@@ -103,6 +116,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 .portfolio-caption,
 .team-caption {
@@ -117,13 +131,13 @@ button {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02px;
+  letter-spacing: 0.02em;
 }
 .footer-link {
   color: #f4f4fd;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -132,6 +146,7 @@ span {
 }
 footer {
   background-color: #2e2f42;
+  font-family: Raleway, sans-serif;
 }
 .footer-desc {
   color: #f4f4fd;
