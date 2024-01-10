@@ -10,7 +10,7 @@ a {
 .header-nav:hover {
   color: #404bbf;
 }
-.header-link {
+.header-nav {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -38,10 +38,10 @@ a {
 .logo:focus {
   color: #404bbf;
 }
-.header-item:hover {
+.header-link:hover {
   color: #404bbf;
 }
-.header-item:focus {
+.header-link:focus {
   color: #404bbf;
 }
 
@@ -60,7 +60,7 @@ a {
   color: #404bbf;
 }
 
-.Contacts {
+.contacts {
   color: #434455;
   font-size: 16px;
   line-height: 1.5; /* 150% */
