@@ -31,6 +31,9 @@ a {
 .logo:focus {
   color: #404bbf;
 }
+.header-item:hover {
+  color: #404bbf;
+}
 .header-item:focus {
   color: #404bbf;
 }
