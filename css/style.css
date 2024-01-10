@@ -13,6 +13,9 @@ a {
 .header-nav:hover {
   color: #404bbf;
 }
+.header-item-link:focus {
+  color: #404bbf;
+}
 .header-link {
   font-family: Raleway, sans-serif;
   font-size: 18px;
